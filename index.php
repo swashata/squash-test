@@ -1,2 +1,3 @@
 <?php
-echo "Hello Multiverse!";
+echo "<h1>Hello Multiverse!</h1>";
+echo "<p>We are Earth 101</p>";
